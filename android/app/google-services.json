@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "488571628392",
+    "firebase_url": "https://inventory-management-c2bd2-default-rtdb.firebaseio.com",
+    "project_id": "inventory-management-c2bd2",
+    "storage_bucket": "inventory-management-c2bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488571628392:android:2714fcd44351e726d084dd",
+        "android_client_info": {
+          "package_name": "com.example.warehousemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCubRpOF58snrjoeB7xefYJI_iXnYcLesc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
